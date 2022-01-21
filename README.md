@@ -1,3 +1,5 @@
+<div background_color='red'>
+</div>
 <h1 align="center">
   <img alt="worldtrip" title="worldtrip" src="https://imgur.com/skTnZnZ.png" width="220px" />
 </h1>
@@ -11,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/layout-spacetraveling.jpg" width="100%">
+  <img alt="worldtrip" src=".github/layout-spacetraveling.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
