@@ -1,6 +1,3 @@
-<div background-color='red'>
-  aaaa
-</div>
 <h1 align="center">
   <img alt="worldtrip" title="worldtrip" src="https://imgur.com/skTnZnZ.png" width="220px" />
 </h1>
@@ -21,20 +18,20 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML 
-- SCSS
+- HTML
+- React
 - TypeScript
+- ChakraUI
 - Next.js
-- Prismic CMS
-- Utteranc
+- Swiper
 
 ## 💻 Projeto
 
-Neste desafio, realizei a criação de um blog do completo zero com Next.js. Utilizando o Headless CMS chamado Prismic para gerar documentos repetíveis (post) que vão retornar dados para a aplicação. Além disso, para implementar comentários, utilizei o Utteranc para adicionar essa feature ao projeto. 🔥
+Nesse desafio, os objetivos eram criar uma aplicação onde o primeiro passo é desenvolver toda a interface usando como base o Chakra UI. O outro é trabalhar o responsivo da aplicação (Versão Web e Mobile) com Next.js do zero e implementar a interface conforme o layout do Figma. 🔥
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/hPc0WhHm0fUVIuErl8AeWs/Desafios-M%C3%B3dulo-3-ReactJS-(Copy)?node-id=7%3A33). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/lBozLLPFSkq38TrpjOEOIh/Desafio-1-Módulo-4-ReactJS-(Copy)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
