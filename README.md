@@ -1,4 +1,4 @@
-<div background_color='red'>
+<div background-color='red'>
 </div>
 <h1 align="center">
   <img alt="worldtrip" title="worldtrip" src="https://imgur.com/skTnZnZ.png" width="220px" />
