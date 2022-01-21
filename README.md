@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="worldtrip" title="worldtrip" src="https://imgur.com/skTnZnZ" width="220px" />
+  <img alt="worldtrip" title="worldtrip" src="https://imgur.com/skTnZnZ.png" width="220px" />
 </h1>
 
 <p align="center">
