@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="worldtrip" src=".github/layout-spacetraveling.jpg" width="100%">
+  <img alt="worldtrip" src=".github/layout-worldtrip.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
